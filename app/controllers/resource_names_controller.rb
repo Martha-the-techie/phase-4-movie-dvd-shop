@@ -1,0 +1,2 @@
+class ResourceNamesController < ApplicationController
+end

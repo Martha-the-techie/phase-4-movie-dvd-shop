@@ -1,0 +1,2 @@
+class ResourceName < ApplicationRecord
+end
